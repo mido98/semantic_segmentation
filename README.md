@@ -60,7 +60,7 @@ it automatically for you.
 ```sh
 python main.py
 ```
-(4) Or if you want to Run the code on a usb webcam:
+(4) Or if you want to Run the code on a usb webcam(you have to download the weights first or run main.py with the training flag set to true):
 ```sh
 python main_cam.py
 ```
