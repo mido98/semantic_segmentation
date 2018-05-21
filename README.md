@@ -69,7 +69,7 @@ python main_cam.py
 
 You can download my trained model [here](https://www.dropbox.com/s/uv1xkd6y4nzxq2n/model.zip?dl=0)
 and save it to the folder [model](model). Also, you need to set the training flag to False
-in the `main.py` and 'main_cam.py':
+in the `main.py` and `main_cam.py`:
 
     training_flag = False
 
